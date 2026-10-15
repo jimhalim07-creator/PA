@@ -1,0 +1,8 @@
+# Never commit appraisal data or generated reports
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.iqy
+*.pdf
+*.zip
